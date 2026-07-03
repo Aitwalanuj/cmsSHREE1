@@ -1,0 +1,13 @@
+{
+  "name": "luxe-boutique-cms-netlify-ready-v8",
+  "version": "8.0.0",
+  "private": true,
+  "description": "Standalone Netlify-ready CMS for Luxe Boutique with linked website API, image galleries, discounts, options, Instagram, and inquiries.",
+  "scripts": {
+    "build": "node tools/no-build.js"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^10.7.9"
+  },
+  "devDependencies": {}
+}
